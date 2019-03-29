@@ -1,4 +1,0 @@
-This is a test file that will eventually be deleted.
-It doesn't really serve much of a purpose.
-I will be commiting and pushing this doc in a minute.
-It will be promptly deleted after.
